@@ -7,7 +7,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3088-notes
 
 ## Contents
 
-1. 2D Drawing Basics
+1. [2D Drawing Basics](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/01-2D_drawing_basics.md)
 2. 2D Transformations
 3. 3D Drawing Basics
 4. 3D Transformations
