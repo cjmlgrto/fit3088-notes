@@ -18,7 +18,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3088-notes
 9. [Clipping](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/09-clipping.md)
 10. [Lighting](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/10-lighting.md)
 11. [Rasterization](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/11-rasterization.md)
-12. Hidden Surface Removal
+12. [Hidden Surface Removal](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/12-hidden_surface_removal.md)
 13. Shading
 14. Textures
 15. Compositing
