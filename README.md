@@ -22,5 +22,5 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3088-notes
 13. [Shading](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/13-shading.md)
 14. [Textures](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/14-textures.md)
 15. [Compositing](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/15-compositing.md)
-16. Global Illumination
-17. Parallel Rendering
+16. [Global Illumination](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/16-global_illumination.md)
+17. [Parallel Rendering]()
