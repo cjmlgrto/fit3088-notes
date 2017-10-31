@@ -12,7 +12,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3088-notes
 3. [3D Drawing Basics](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/03-3D_drawing_basics.md)
 4. [3D Transformations](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/04-3D_transformations.md)
 5. [Projections](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/05-projections.md)
-6. Display Lists
+6. [Display Lists](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/06-display_lists.md)
 7. Tessellation
 8. The Graphics Process
 9. Clipping
