@@ -67,16 +67,17 @@ H(θ, ɸ) = |1 0 cotθ 0|
 
 ## Perspective Projection
 
-* **Perspective Projection** — 
-* `x/z = x_p/d` → `x_p = x/(z/d)` → `x_p = -xd/z`
+* **Perspective Projection** — Given a plane `d`, we use the following formulas to determine the position of the points `(x, y, z)` onto the plane.
+* `x/z = x_p/d` → `x_p = x/(z/d)` → `x_p = -xd/z` (where the scaling factor is `-d/z`)
 * `y/z = y_p/d` → `y_p = y/(z/d)` → 'y_p = -yd/z`
 * `x' = x`
 * `y' = y`
 * `z' = az + b`
 * `w' = -z`
-* `x'' = -x/z`
-* `y'' = -y/z`
-* `z'' = -([az + b]/z)`
+* To convert to 3D, we divide by `w'`:
+	* `x'' = -x/z`
+	* `y'' = -y/z`
+	* `z'' = -([az + b]/z)`
 * And in matrix form:
 
 ```
@@ -90,7 +91,7 @@ N = |1 0 0 0|
 * `z'' = -(a × -far + b)/(-far) = 1`
 * `a = (n+f)(n-f)` → `a = -(f+n)/(f-n)`
 * `b = n × ([n+f]/[n-f] - [n-f]/[n-f])` → `b = 2nf/(n-f)` → `b = -2nf/(f-n)`
-* And another matrix:
+* And finally, we get the **Perspective Projection Matrix**:
 
 ```
 | 2near/[right-left] 0 [right+left]/[right-left] 0 |
@@ -98,3 +99,4 @@ N = |1 0 0 0|
 | 0 0 -[far+near]/[far-near] [-2far × near]/[far-near] |
 | 0 0 -1 0 |
 ```
+
