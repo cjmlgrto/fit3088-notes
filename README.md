@@ -15,7 +15,7 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3088-notes
 6. [Display Lists](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/06-display_lists.md)
 7. [Tessellation](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/07-tessellation.md)
 8. [The Graphics Process](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/08-graphics_process.md)
-9. Clipping
+9. [Clipping](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/09-clipping.md)
 10. Lighting
 11. Rasterisation
 12. Hidden Surface Removal
