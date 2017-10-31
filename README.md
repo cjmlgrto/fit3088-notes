@@ -21,6 +21,6 @@ If you see an issue, just [submit one](https://github.com/cjmlgrto/fit3088-notes
 12. [Hidden Surface Removal](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/12-hidden_surface_removal.md)
 13. [Shading](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/13-shading.md)
 14. [Textures](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/14-textures.md)
-15. Compositing
+15. [Compositing](https://github.com/cjmlgrto/fit3088-notes/blob/master/notes/15-compositing.md)
 16. Global Illumination
 17. Parallel Rendering
